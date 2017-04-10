@@ -11,5 +11,10 @@ Modify display.js(.ts) to change the characters used.
 
 Make sure you are running the latest version of Node.js.
 
+It's using a dumbed-down version of the raycaster from "later" repo converted over to TypeScript, the JS files are the transpiled output from tsc.
+
+Windows:
 ![alt tag](https://raw.githubusercontent.com/gregfrazier/raycastard/master/sampleWindows.jpg)
+
+Linux (Mint 18):
 ![alt tag](https://raw.githubusercontent.com/gregfrazier/raycastard/master/sampleLinux.jpg)
